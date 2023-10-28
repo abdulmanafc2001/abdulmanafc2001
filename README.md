@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abdulmanafc2001
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning go progrmming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Abdul Manaf C.
+👀 I'm passionate about coding.
+🌱 Currently, I'm immersed in learning the Go programming language and exploring microservices with Golang.
 
 <!---
 abdulmanafc2001/abdulmanafc2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
