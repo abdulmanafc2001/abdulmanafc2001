@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang Docker Kubernetes Grpc & Microservices**
 
-- 💬 Ask me about **Golang,Sql Databases,Data Structures ,MongoDB,Docker, Kubernetes,CiCd Github Action**
+- 💬 Ask me about **Golang,Kubernetes , SQL, Databases,Data Structures ,MongoDB,Docker,CI/CD Github Action**
 
 - 📫 How to reach me **manafabdulc@gmail.com**
 
