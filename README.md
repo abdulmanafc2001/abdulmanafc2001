@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="500" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75">
 
+- 🌱 I’m currently working as a **Software Engineer** at **Espina Technologies.**
+
 - 🌱 I’m currently learning **Golang Docker Kubernetes Grpc & Microservices**
 
 - 💬 Ask me about **Golang,Sql Databases,Data Structures ,MongoDB,Docker, Kubernetes,CiCd Github Action**
